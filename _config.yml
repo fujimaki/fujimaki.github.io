@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: テスト
+name: 何を書こうか
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 何を書こうか
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/8186067
 
 #
 # Flags below are optional
@@ -19,18 +19,18 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook: fujimaki.dai
   flickr: 
-  github: barryclark/jekyll-now
+  github: fujimaki
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: fujimaki
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 
+disqus: fujimakidai
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
