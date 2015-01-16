@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+何を書こうか
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+何を書こうか 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fujimaki.dai@gmail.com](mailto:fujimaki.dai@gmail.com)
