@@ -6,7 +6,7 @@
 name: 何を書こうか
 
 # Short bio or description (displayed in the header)
-description: 何を書こうか
+description: Gitについて？
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/8186067
@@ -50,7 +50,8 @@ baseurl: ""
 #
 
 markdown: redcarpet
-highlighter: pygments
+# highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
